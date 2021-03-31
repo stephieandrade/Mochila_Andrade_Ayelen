@@ -1,0 +1,21 @@
+Resumen Clase 5
+AMD Radeon Rx 580x
+Nucleos 36 
+Frecuencia base 1257 MHz
+Frecuencia maxima 1340 MHz
+Subprocesos 2304
+Cache 8 GB GDDR5
+Imagen https://images-na.ssl-images-amazon.com/images/I/81D46VNLb9L._AC_SX450_.jpg
+
+Nvidia GEFORCE RTX 3090
+Nucleos cuda 82 
+Frecuencia base 1400 MHz
+Frecuencia maxima 1700 MHz
+Subprocesos 10496 CUDA
+Cache 	24 GB GDDR6X
+Imagen https://www.muycomputer.com/wp-content/uploads/2020/09/GeForceRTX3090_8K-1000x600.jpg
+
+Procesadores
+Cyberpunk Amd Ryzen 5
+Office 2019 Intel i3 3ra generación
+Wondershare Filmora X Amd 8 séptima generación
