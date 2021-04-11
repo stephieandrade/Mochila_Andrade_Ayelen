@@ -1,0 +1,123 @@
+/*https://www.figma.com/file/NzdP5AErhP4nblWjy9NIX5/Untitled?node-id=1%3A2*/
+
+.descuento{/*LISTO*/
+    /* Rectangle 45 */
+    position: absolute;
+    width: 2056px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+
+    background: #1CD1B0;
+}
+
+.card_banner{
+/* Rectangle 40 */
+
+
+position: absolute;
+width: 2056px;
+height: 162px;
+left: 0px;
+top: 60px;
+
+background: #00669F;
+box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.fondo{
+    /* Clase 7 */
+
+
+    position: absolute;
+    width: 2056px;
+    height: 5264px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.heart{
+    /* Vector */
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6.25%;
+    bottom: 6.25%;
+
+    background: #CC2424;
+}
+
+.batman_fondo{/*LISTO*/
+    /* Imagen Batman */
+    position: absolute;
+    width: 1446px;
+    height: 492.5px;
+    left: 148px;
+    top: 269px;
+
+    background: url()
+}
+
+
+.batman_img{
+    position: absolute;
+    width: 1024px;
+    height: 512px;
+    left: 464px;
+    top: 572px;
+
+    background: url();
+}
+.rect{
+    /* Rectangle 38 */
+
+    position: absolute;
+    width: 805px;
+    height: 872px;
+    left: 626px;
+    top: 762px;
+
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.boton_ver{
+    /* Rectangle 39 */
+
+    position: absolute;
+    width: 346px;
+    height: 114px;
+    left: 855px;
+    top: 1452px;
+
+    background: #00669F;
+    border-radius: 7px;
+}
+
+.oval_boton{
+    /* Ellipse 2 */
+
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1800px;
+    top: 1634px;
+
+    background: #00669F;
+}
+
+.footer{
+    /* Rectangle 46 */
+
+    position: absolute;
+    width: 2056px;
+    height: 162px;
+    left: 0px;
+    top: 5102px;
+
+    background: #00669F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,9 @@
+.banner{
+    background-image: url(../receta/lemon_pie.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: repeat-x; /*repite la imagen para llenar el lugar*/
+    height: 343px;
+    background-attachment: fixed; /*la imagen queda quieta mientras vas para abajo en la pag*/
+
+}
