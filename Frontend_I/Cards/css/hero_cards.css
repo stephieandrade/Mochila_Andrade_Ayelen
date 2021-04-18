@@ -1,92 +1,83 @@
 /*https://www.figma.com/file/NzdP5AErhP4nblWjy9NIX5/Untitled?node-id=1%3A2*/
-
-.descuento{/*LISTO*/
-    /* Rectangle 45 */
-    position: absolute;
-    width: 2056px;
-    height: 61px;
-    left: 0px;
-    top: 0px;
-
-    background: #1CD1B0;
+body {    
+    margin: 0 !important;
+    padding: 0 !important;
+}
+*{
+    box-sizing: border-box;
 }
 
-.card_banner{
-/* Rectangle 40 */
+.descuento{
+    display: block;
+    font-family: sans-serif;
+    font-size: 35;
+    background: #1CD1B0;
+    text-indent: 20px;
+    margin: 0 auto;
+}
 
+h1{
+    position: fixed;
+    background: #00669F;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: #FFFFFF;
+    text-indent: 10px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    margin-top: 0px;
+    padding:10px
+}
 
-position: absolute;
-width: 2056px;
-height: 162px;
-left: 0px;
-top: 60px;
+main{
+    margin-left: 400px;
+    margin-right: 400px;
+}
 
-background: #00669F;
-box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+.cards_super{
+    margin: 0 auto;
+}
+
+.card_header{
+    margin-bottom: 50px;
+}
+
+.imagen_corazon{
+    background-image: url(../img/corazon.png);
+    top: 5%;
+    left: 5%;
 }
 
 .fondo{
-    /* Clase 7 */
-
-
-    position: absolute;
-    width: 2056px;
-    height: 5264px;
-    left: 0px;
-    top: 0px;
-
     background: #FFFFFF;
 }
 
-.heart{
-    /* Vector */
-
+.batman_fondo{
     position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 6.25%;
-    bottom: 6.25%;
-
-    background: #CC2424;
-}
-
-.batman_fondo{/*LISTO*/
-    /* Imagen Batman */
-    position: absolute;
-    width: 1446px;
-    height: 492.5px;
-    left: 148px;
-    top: 269px;
-
-    background: url()
+    width: 400;
+    height: 250px;
+    background-image: url('../img/bg-batman.jpg');
+    background-size:cover;
+    box-sizing: border-box;
 }
 
 
-.batman_img{
+.batman_imagen{
     position: absolute;
-    width: 1024px;
-    height: 512px;
-    left: 464px;
-    top: 572px;
-
-    background: url();
+    width: 102px;
+    height: 51px;
+    left: 46px;
+    top: 57px;
+    
+    background: url('../img/batman.jpg');
 }
-.rect{
-    /* Rectangle 38 */
 
-    position: absolute;
-    width: 805px;
-    height: 872px;
-    left: 626px;
-    top: 762px;
-
-    background: #F3F3F3;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+article{
+    margin: 20px;
 }
 
 .boton_ver{
-    /* Rectangle 39 */
-
     position: absolute;
     width: 346px;
     height: 114px;
@@ -97,20 +88,8 @@ box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
     border-radius: 7px;
 }
 
-.oval_boton{
-    /* Ellipse 2 */
 
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    left: 1800px;
-    top: 1634px;
-
-    background: #00669F;
-}
-
-.footer{
-    /* Rectangle 46 */
+/*.footer{
 
     position: absolute;
     width: 2056px;
@@ -120,4 +99,4 @@ box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
 
     background: #00669F;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
+}*/
