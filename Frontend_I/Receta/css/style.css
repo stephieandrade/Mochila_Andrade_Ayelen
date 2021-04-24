@@ -1,9 +1,22 @@
-.banner{
-    background-image: url(../receta/lemon_pie.jpg);
-    background-size:cover;
-    background-position: center;
-    background-repeat: repeat-x; /*repite la imagen para llenar el lugar*/
-    height: 343px;
-    background-attachment: fixed; /*la imagen queda quieta mientras vas para abajo en la pag*/
+body{
+    font-family: 'Inter', sans-serif;
+    
+    
+}
 
+
+.banner{
+    font-size: large;
+    color: white;
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(../img/lemon-pie.png);
+    background-size: cover;
+    background-position: center;
+   /* background-repeat: repeat-x; /*repite la imagen para llenar el lugar*/
+    height: 343px;
+    /*background-attachment: fixed; /*la imagen queda quieta mientras vas para abajo en la pag*/
+
+}
+
+h2, h3{
+    font-family:  'Playfair Display', serif;
 }
